@@ -2,3 +2,6 @@
 	path = lib/awesomelibrary
 	url = https://bitbucket.org/jaredw/awesomelibrary
 	branch = version1
+[submodule "lib/submodule-library"]
+	path = lib/submodule-library
+	url = https://bitbucket.org/rupe120/submodule-library
