@@ -5,3 +5,4 @@
 [submodule "lib/submodule-library"]
 	path = lib/submodule-library
 	url = https://github.com/rupe120/submodule-library
+	branch = main
