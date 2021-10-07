@@ -4,4 +4,4 @@
 	branch = version1
 [submodule "lib/submodule-library"]
 	path = lib/submodule-library
-	url = https://bitbucket.org/rupe120/submodule-library
+	url = https://github.com/rupe120/submodule-library
